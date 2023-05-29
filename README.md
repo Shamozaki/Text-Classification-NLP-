@@ -1,2 +1,1 @@
-# Text-Classification-NLP
-Text classification  (also referred to as text categorization) consists of associating a  document with a given topic (e.g. sports, politics, etc.). 20 Newsgroups dataset  (http://qwone.com/~jason/20Newsgroups/).  Direct link for download the dataset (bydate version):  http://qwone.com/~jason/20Newsgroups/20news-bydate.tar.gz
+Text classification: Associating a  document with a given topic (e.g. sports, politics, etc.) from 20 Newsgroups dataset. The 20 newsgroups dataset comprises around 18000 newsgroups posts on 20 topics split in two subsets: one for training (or development) and the other one for testing (or for performance evaluation). The split between the train and test set is based upon a messages posted before and after a specific date.
