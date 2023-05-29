@@ -7,6 +7,7 @@
 *   Data Exploration
 *   Literature Review
 *   Preprocessing
+*   Model Implementation
 *   Model 1 - Neural Network with regression using X\_train\_vectorized - TFidfvectorizer
 
     *   Neural Network Confusion Matrix
